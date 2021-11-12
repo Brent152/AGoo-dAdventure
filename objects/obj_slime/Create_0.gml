@@ -1,0 +1,13 @@
+slime_dashing = false;
+slime_attacking = false;
+max_health = 100;
+current_health = 100;
+invulnerable = false;
+slime_knocked = false;
+walk_noise = false;
+sounding = false;
+dead = false;
+has_sword = false;
+boss_alive = false;
+persistent = true;
+audio_play_sound(snd_music_normal, 0, 1);
